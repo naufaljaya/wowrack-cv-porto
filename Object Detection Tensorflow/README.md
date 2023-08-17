@@ -2,6 +2,10 @@
 
 This code is a deep learning project that involves building and training a YOLO (You Only Look Once) object detection model using the EfficientNetB1 architecture. The project includes data preprocessing, model creation, training, and testing for object detection on images. Here's an overview of the code:
 
+## ⭐ Credit
+
+Folefac Martins from Neuralearn.ai
+
 ### Data Setup
 
 1.  The Kaggle API is installed and configured to download the "Pascal VOC 2012" dataset.
