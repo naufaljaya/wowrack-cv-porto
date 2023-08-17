@@ -1,4 +1,4 @@
-# Overview of Object Detection Using cvlib
+# Object Detection Using cvlib
 
 <p align="center">
   <img src="https://github.com/naufaljaya/wowrack-cv-porto/blob/main/asset/Object%20detection%20image.png?raw=true" alt="Sublime's custom image"/>
